@@ -2,6 +2,9 @@
 
 stack: nestjs, kafka, mongodb
 
+## tech debt
+validaciones en schemas y error handling
+
 ## Installation
 
 ```bash
